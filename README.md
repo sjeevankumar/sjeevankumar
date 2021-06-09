@@ -13,7 +13,7 @@
 - 🥅 2021 Goals: Learning Frontend development and doing some good internships
 - ⚡ Fun fact: Currently I am trying to learn Spanish language
 - 😄 Pronouns: Hard worker and Self learner
-- See <a href="">My Portfolio</a>
+<!-- - See <a href="">My Portfolio</a> -->
 <br />
 
 <h2>Skills</h2>
