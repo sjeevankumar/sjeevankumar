@@ -11,7 +11,6 @@
 - 🥅 2024 Goals: Learn more about MongoDB and deploy scalable applications
 - ⚡ Fun fact: Learning the Spanish language
 - 😄 Pronouns: Hard worker and Self-learner
-- See [My Portfolio](https://sjeevankumar.github.io/)
 <br />
 
 <h2>Skills</h2>
